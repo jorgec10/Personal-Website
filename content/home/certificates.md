@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[item]]
-#  organization = "edX"
-#  organization_url = "https://www.edx.org"
-#  title = "Blockchain Fundamentals"
+[[item]]
+  organization = "Cambridge"
+# organization_url = "https://www.edx.org"
+  title = "Certificate in Advanced English (C1)"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
-#  date_start = "2018-03-01"
-#  date_end = ""
-#  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  date_start = "2013-10-01"
+  date_end = ""
+# description = "Formulated informed blockchain models, hypotheses, and use cases."
 +++

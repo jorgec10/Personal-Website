@@ -15,21 +15,53 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "C/C++"
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "JAVA"
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Bash"
+[[feature]]
+  name = "Python"
+[[feature]]
+  name = "Android"
+[[feature]]
+  name = "SQL"
+[[feature]]
+  name = "Git"
+[[feature]]
+  name = "Latex"
+[[feature]]
+  name = "Docker"
+[[feature]]
+  name = "OMNeT++"
+[[feature]]
+  name = "Veins"
+[[feature]]
+  name = "SUMO"
+[[feature]]
+  name = "INET"
+[[feature]]
+  name = "IoT"
+[[feature]]
+  name = "LoRaWAN"
+[[feature]]
+  name = "VoIP"
+[[feature]]
+  name = "AAA"
+[[feature]]
+  name = "Linux"
+
+
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
+  
+#[[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 +++

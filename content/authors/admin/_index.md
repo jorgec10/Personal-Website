@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jorge Gallego Madrid
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Computer Science Faculty, University of Murcia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am especially interested in the research fields of 5G, network slicing, Internet of Things (IoT), and advanced virtualization techniques.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 5G
+- Network slicing
+- Internet of Things (IoT)
+- Advanced virtualization techniques
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in New Technologies in Computer Science
+    institution: Computer Science Faculty, University of Murcia
+    year: 2018-2019
+  - course: BSc in Computer Engineering, Information Technologies specialization
+    institution: Computer Science Faculty, University of Murcia
+    year: 2014-2018
+  - course: Research Bachillerato in Sciences and Technologies
+    institution: IES Juan Carlos I
+    year: 2012-2014, graduated with distinctios
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +45,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #link: '#contact'  # For a direct email link, use "mailto:jorgegm@um.es".
+  link: 'mailto:jorgegm@um.es'  # For a direct email link, use "mailto:jorgegm@um.es".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jorgec10
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Jorge Gallego Madrid and I am a recently graduated Computer Engineer at the University of Murcia (Spain), where I am currently M.S. student and research intern, with the firm objective of obtaining a Ph.D. in Information and Communication Technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The election of this area is motivated by my passion for information technologies. I am especially interested in the research fields of 5G, network slicing, Internet of Things (IoT), and advanced virtualization techniques. In my opinion, these areas will be of high interest for both academia and industry during the following years, as they are currently in their inception stages. 

@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern at Department of Information and Communication Engineering"
+  company = "University of Murcia"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Murcia (Spain)"
+  date_start = "2018-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """<br>
+
+  * Embedded systems C/C++ programming
+  * Deployment and evaluation of LP-WAN infrastructures and technologies
+  * Network simulations with OMNeT++ and INET
+  * Vehicular simulations with OMNeT++, VEINS and SUMO
+  * Application of LP-WAN technologies to vehicular scenarios
+  * Crypto++ programming
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Internship"
+  company = "Odin Solutions, S.L."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Murcia (Spain)"
+  date_start = "2017-02-01"
+  date_end = "2017-03-31"
+  description = """<br>
+  * Embedded LoRaWAN systems C programming"""
 
 +++
