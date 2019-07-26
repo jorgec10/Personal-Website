@@ -25,6 +25,8 @@ interests:
 - Network slicing
 - Internet of Things (IoT)
 - Advanced virtualization techniques
+- Cooperative Intelligent Transport Systems (C-ITS)
+- Security
 
 education:
   courses:
