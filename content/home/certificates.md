@@ -28,3 +28,18 @@ date_format = "Jan 2006"
   date_end = ""
 # description = "Formulated informed blockchain models, hypotheses, and use cases."
 +++
+
+[[item]]
+  organization = "Coursera"
+  title = "Machine Learning by Stanford"
+  url = "https://www.coursera.org/learn/machine-learning"
+  date_start = "2020-03-15"
+  date_end = ""
++++
+
+[[item]]
+  organization = "Universidad de Murcia"
+  title = "IV Curso Escribir Ciencia en Inglés"
+  date_start = "2020-06-20"
+  date_end = ""
++++
